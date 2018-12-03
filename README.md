@@ -38,4 +38,4 @@ HaloMe Messenger is implemented from RivChat. Let checkout it on Play Store
 
 [![Known Vulnerabilities](https://snyk.io/test/github/terracraft321/android-firebase-chat/badge.svg?targetFile=RivChat%2Fapp%2Fbuild.gradle)](https://snyk.io/test/github/terracraft321/android-firebase-chat?targetFile=RivChat%2Fapp%2Fbuild.gradle)
 
-[![Known Vulnerabilities](https://snyk.io/test/github/terracraft321/android-firebase-chat/badge.svg?targetFile=RivChat%2Fapp%2Fbuild.gradle)](https://snyk.io/test/github/terracraft321/android-firebase-chat?targetFile=RivChat%2Fapp%2Fbuild.gradle)
+[![Known Vulnerabilities](https://snyk.io/test/github/terracraft321/android-firebase-chat/badge.svg?targetFile=RivChat%2F%2Fbuild.gradle)](https://snyk.io/test/github/terracraft321/android-firebase-chat?targetFile=RivChat%2F%2Fbuild.gradle)
